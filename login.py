@@ -3,3 +3,6 @@ def demo():
   print(num)
 
 demo()
+
+
+num = 4444
